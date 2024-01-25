@@ -1,4 +1,4 @@
-# Repository for train concepts of Git/GitHub
+# Repositório para treinar conceitos de Git/GitHub
 
 - Inicializar um repositório no git
 - Adicionar arquivos ao nosso projeto
